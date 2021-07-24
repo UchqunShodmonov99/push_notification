@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982892500607",
+    "project_id": "test-notification-b38c2",
+    "storage_bucket": "test-notification-b38c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982892500607:android:43c0b71762b8c93b14514a",
+        "android_client_info": {
+          "package_name": "uz.bozzi.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982892500607-sn45bkb3gmjb7b16ms7tbnn13cppismu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvHYlw1QMvHEUoL6YamPyC1slNowMFtV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982892500607-sn45bkb3gmjb7b16ms7tbnn13cppismu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
